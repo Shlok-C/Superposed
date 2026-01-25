@@ -56,10 +56,6 @@ function solve_critical_states()
     return real_sols
 end
 
-function plot_states()
-
-end
-
 res = solve_critical_states()
 
 println(res)
