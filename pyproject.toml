@@ -1,0 +1,9 @@
+[project]
+name = "superposed"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mpqp>=0.5.0",
+]

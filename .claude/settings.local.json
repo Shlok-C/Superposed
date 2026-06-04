@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv venv:*)",
+      "Bash(ls:*)",
+      "Bash(/mnt/c/Users/shlok/Desktop/Superposed/.venv/bin/python:*)",
+      "Bash(python3 -c \"import mpqp.gates; help\\(mpqp.gates\\)\")",
+      "Bash(python3:*)",
+      "Bash(uv run:*)",
+      "Bash(find /mnt/c/Users/shlok/Desktop/Superposed/.venv/lib/python*/site-packages/mpqp -type f -name \"*.py\")"
+    ]
+  }
+}
