@@ -7,7 +7,8 @@
       "Bash(python3 -c \"import mpqp.gates; help\\(mpqp.gates\\)\")",
       "Bash(python3:*)",
       "Bash(uv run:*)",
-      "Bash(find /mnt/c/Users/shlok/Desktop/Superposed/.venv/lib/python*/site-packages/mpqp -type f -name \"*.py\")"
+      "Bash(find /mnt/c/Users/shlok/Desktop/Superposed/.venv/lib/python*/site-packages/mpqp -type f -name \"*.py\")",
+      "Bash(python -c ' *)"
     ]
   }
 }
